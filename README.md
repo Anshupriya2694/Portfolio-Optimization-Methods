@@ -1,1 +1,1 @@
-# Portfolio-Optimzation-Using-Neural-Networks
+# PORTFOLIO REBALANCING TECHNIQUES
