@@ -105,7 +105,7 @@ The covariances for ARIMA and Neural Net model are also fairly close to that of 
 
 ![](Images/Screen%20Shot%202020-11-19%20at%2010.14.17%20AM.png)
 
-Comparing the efficient boundaries, it can be seen that ARIMA is mimicking the actual efficient boundary. However, ARIMA seems to be slightly overestimating returns. The neural network on the other hand is underestimating returns. While estimating weights, both models assign the same weights despite differences in return estimation. These weights have been calculated to ensure minimum volatility. 
+Comparing the efficient boundaries, it can be seen that ARIMA is mimicking the actual efficient boundary. However, ARIMA seems to be slightly underestimating returns. The neural network on the other hand is underestimating returns by a huge margin. While estimating weights, both models assign the same weights despite differences in return estimation. These weights have been calculated to ensure minimum volatility. 
 
 ![](Images/Screen%20Shot%202020-11-19%20at%2010.14.27%20AM.png)
 
