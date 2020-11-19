@@ -15,4 +15,4 @@ Initial analysis of the data
 
 1.	Volatility in stocks: Volatility is the degree of variation of trading prices over-time. We can see that there is a spike in volatility between 2008 to 2009 and in the early months of 2020. 
 
-![](Images/Screen Shot 2020-11-19 at 10.11.46 AM.png)
+![](Screen Shot 2020-11-19 at 10.11.46 AM.png)
