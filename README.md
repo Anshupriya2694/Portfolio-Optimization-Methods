@@ -73,6 +73,8 @@ Initial assessment indicates that there is little correlation between average/mi
 
 ![](Images/Screen%20Shot%202020-11-19%20at%2010.13.35%20AM.png)
 
+![](Images/Screen%20Shot%202020-11-19%20at%2010.36.29%20AM.png)
+
 Increasing COVID cases are acting as a systematic risk factor for both minimum monthly returns and average volatility of returns (p-value), but not for average monthly returns. The R-squared goodness of fit isn't high in any case, (better than 2008-2009 data however) but a model with more factors would likely generate greater explanatory power.
 
 ![](Images/Screen%20Shot%202020-11-19%20at%2010.13.44%20AM.png)
